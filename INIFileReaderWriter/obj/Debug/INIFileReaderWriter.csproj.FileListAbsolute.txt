@@ -1,0 +1,6 @@
+c:\users\tom\source\repos\INIFileReaderWriter\INIFileReaderWriter\bin\Debug\INIFileReaderWriter.dll
+c:\users\tom\source\repos\INIFileReaderWriter\INIFileReaderWriter\bin\Debug\INIFileReaderWriter.pdb
+c:\users\tom\source\repos\INIFileReaderWriter\INIFileReaderWriter\obj\Debug\INIFileReaderWriter.csprojResolveAssemblyReference.cache
+c:\users\tom\source\repos\INIFileReaderWriter\INIFileReaderWriter\obj\Debug\INIFileReaderWriter.csproj.CoreCompileInputs.cache
+c:\users\tom\source\repos\INIFileReaderWriter\INIFileReaderWriter\obj\Debug\INIFileReaderWriter.dll
+c:\users\tom\source\repos\INIFileReaderWriter\INIFileReaderWriter\obj\Debug\INIFileReaderWriter.pdb
